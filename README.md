@@ -1,1 +1,1 @@
-"Simple Guided Data Analysis Projects" 
+"Simple Guided Data Science Projects" 
